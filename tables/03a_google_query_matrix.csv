@@ -1,0 +1,61 @@
+Query ID,Site,Title Pattern,Google Query,Date Restrict,Results per Query,Active,Is Sample,Sample Source
+Q001,boards.greenhouse.io,"""head of stablecoin""","site:boards.greenhouse.io ""head of stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q002,boards.greenhouse.io,"""head of digital assets""","site:boards.greenhouse.io ""head of digital assets"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q003,boards.greenhouse.io,"""director"" ""stablecoin""","site:boards.greenhouse.io ""director"" ""stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q004,boards.greenhouse.io,"""vp"" ""digital assets""","site:boards.greenhouse.io ""vp"" ""digital assets"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q005,boards.greenhouse.io,"""head of tokenization""","site:boards.greenhouse.io ""head of tokenization"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q006,boards.greenhouse.io,"""director"" ""tokenization""","site:boards.greenhouse.io ""director"" ""tokenization"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q007,boards.greenhouse.io,"""head of blockchain""","site:boards.greenhouse.io ""head of blockchain"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q008,boards.greenhouse.io,"""lead"" ""stablecoin""","site:boards.greenhouse.io ""lead"" ""stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q009,boards.greenhouse.io,"""director"" ""distributed ledger""","site:boards.greenhouse.io ""director"" ""distributed ledger"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q010,boards.greenhouse.io,"""head of"" ""on-chain""","site:boards.greenhouse.io ""head of"" ""on-chain"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q011,jobs.lever.co,"""head of stablecoin""","site:jobs.lever.co ""head of stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q012,jobs.lever.co,"""head of digital assets""","site:jobs.lever.co ""head of digital assets"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q013,jobs.lever.co,"""director"" ""stablecoin""","site:jobs.lever.co ""director"" ""stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q014,jobs.lever.co,"""vp"" ""digital assets""","site:jobs.lever.co ""vp"" ""digital assets"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q015,jobs.lever.co,"""head of tokenization""","site:jobs.lever.co ""head of tokenization"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q016,jobs.lever.co,"""director"" ""tokenization""","site:jobs.lever.co ""director"" ""tokenization"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q017,jobs.lever.co,"""head of blockchain""","site:jobs.lever.co ""head of blockchain"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q018,jobs.lever.co,"""lead"" ""stablecoin""","site:jobs.lever.co ""lead"" ""stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q019,jobs.lever.co,"""director"" ""distributed ledger""","site:jobs.lever.co ""director"" ""distributed ledger"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q020,jobs.lever.co,"""head of"" ""on-chain""","site:jobs.lever.co ""head of"" ""on-chain"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q021,myworkdayjobs.com,"""head of stablecoin""","site:myworkdayjobs.com ""head of stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q022,myworkdayjobs.com,"""head of digital assets""","site:myworkdayjobs.com ""head of digital assets"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q023,myworkdayjobs.com,"""director"" ""stablecoin""","site:myworkdayjobs.com ""director"" ""stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q024,myworkdayjobs.com,"""vp"" ""digital assets""","site:myworkdayjobs.com ""vp"" ""digital assets"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q025,myworkdayjobs.com,"""head of tokenization""","site:myworkdayjobs.com ""head of tokenization"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q026,myworkdayjobs.com,"""director"" ""tokenization""","site:myworkdayjobs.com ""director"" ""tokenization"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q027,myworkdayjobs.com,"""head of blockchain""","site:myworkdayjobs.com ""head of blockchain"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q028,myworkdayjobs.com,"""lead"" ""stablecoin""","site:myworkdayjobs.com ""lead"" ""stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q029,myworkdayjobs.com,"""director"" ""distributed ledger""","site:myworkdayjobs.com ""director"" ""distributed ledger"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q030,myworkdayjobs.com,"""head of"" ""on-chain""","site:myworkdayjobs.com ""head of"" ""on-chain"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q031,jobs.ashbyhq.com,"""head of stablecoin""","site:jobs.ashbyhq.com ""head of stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q032,jobs.ashbyhq.com,"""head of digital assets""","site:jobs.ashbyhq.com ""head of digital assets"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q033,jobs.ashbyhq.com,"""director"" ""stablecoin""","site:jobs.ashbyhq.com ""director"" ""stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q034,jobs.ashbyhq.com,"""vp"" ""digital assets""","site:jobs.ashbyhq.com ""vp"" ""digital assets"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q035,jobs.ashbyhq.com,"""head of tokenization""","site:jobs.ashbyhq.com ""head of tokenization"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q036,jobs.ashbyhq.com,"""director"" ""tokenization""","site:jobs.ashbyhq.com ""director"" ""tokenization"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q037,jobs.ashbyhq.com,"""head of blockchain""","site:jobs.ashbyhq.com ""head of blockchain"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q038,jobs.ashbyhq.com,"""lead"" ""stablecoin""","site:jobs.ashbyhq.com ""lead"" ""stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q039,jobs.ashbyhq.com,"""director"" ""distributed ledger""","site:jobs.ashbyhq.com ""director"" ""distributed ledger"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q040,jobs.ashbyhq.com,"""head of"" ""on-chain""","site:jobs.ashbyhq.com ""head of"" ""on-chain"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q041,glassdoor.com/job-listing,"""head of stablecoin""","site:glassdoor.com/job-listing ""head of stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q042,glassdoor.com/job-listing,"""head of digital assets""","site:glassdoor.com/job-listing ""head of digital assets"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q043,glassdoor.com/job-listing,"""director"" ""stablecoin""","site:glassdoor.com/job-listing ""director"" ""stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q044,glassdoor.com/job-listing,"""vp"" ""digital assets""","site:glassdoor.com/job-listing ""vp"" ""digital assets"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q045,glassdoor.com/job-listing,"""head of tokenization""","site:glassdoor.com/job-listing ""head of tokenization"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q046,glassdoor.com/job-listing,"""director"" ""tokenization""","site:glassdoor.com/job-listing ""director"" ""tokenization"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q047,glassdoor.com/job-listing,"""head of blockchain""","site:glassdoor.com/job-listing ""head of blockchain"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q048,glassdoor.com/job-listing,"""lead"" ""stablecoin""","site:glassdoor.com/job-listing ""lead"" ""stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q049,glassdoor.com/job-listing,"""director"" ""distributed ledger""","site:glassdoor.com/job-listing ""director"" ""distributed ledger"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q050,glassdoor.com/job-listing,"""head of"" ""on-chain""","site:glassdoor.com/job-listing ""head of"" ""on-chain"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q051,careers,"""head of stablecoin""","inurl:careers ""head of stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q052,careers,"""head of digital assets""","inurl:careers ""head of digital assets"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q053,careers,"""director"" ""stablecoin""","inurl:careers ""director"" ""stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q054,careers,"""vp"" ""digital assets""","inurl:careers ""vp"" ""digital assets"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q055,careers,"""head of tokenization""","inurl:careers ""head of tokenization"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q056,careers,"""director"" ""tokenization""","inurl:careers ""director"" ""tokenization"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q057,careers,"""head of blockchain""","inurl:careers ""head of blockchain"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q058,careers,"""lead"" ""stablecoin""","inurl:careers ""lead"" ""stablecoin"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q059,careers,"""director"" ""distributed ledger""","inurl:careers ""director"" ""distributed ledger"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json
+Q060,careers,"""head of"" ""on-chain""","inurl:careers ""head of"" ""on-chain"" -intern -recruiter",qdr:w,10,TRUE,FALSE,Generated from config/signal_config.json

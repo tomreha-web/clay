@@ -1,0 +1,86 @@
+{
+  "_README": "Single source of truth for the Optimism POC signal logic. Mirrors table '00 – Config: Signal Keywords' in Clay. poc/signal_rules.py reads this file; the Clay formula columns in clay/formulas.md hard-code the same lists. Change here first, then paste into Clay.",
+  "_TODO": "PLACEHOLDER keyword list. Customer (OP + ABM consultant) to confirm the final ~20 terms. Entries marked status=suggested were added by Clay to get to ~20 and need sign-off.",
+
+  "audience": {
+    "primary_min_employees": 1000,
+    "comparison_min_employees": 5000,
+    "industry_filter_enabled": false,
+    "industry_filter_note": "OFF in v1 on purpose. Per the ABM consultant, title + size alone should return a few hundred triggers, not thousands. If weekly volume comes in too high, turn this on as the first tightening step.",
+    "optional_industry_filter": [
+      "Financial Services", "Banking", "Capital Markets", "Investment Management",
+      "Insurance", "Technology, Information and Internet", "Software Development",
+      "Retail", "IT Services and IT Consulting"
+    ]
+  },
+
+  "cadence": {
+    "default": "weekly",
+    "day": "Monday",
+    "lookback_days": 7,
+    "note": "Change it in each table's Source/Signal settings (Schedule). lookback_days should match: weekly = 7, daily = 1, biweekly = 14."
+  },
+
+  "keywords": [
+    {"term": "stablecoin",               "status": "customer", "tier": "A"},
+    {"term": "stablecoins",              "status": "customer", "tier": "A"},
+    {"term": "digital assets",           "status": "customer", "tier": "A"},
+    {"term": "digital asset",            "status": "customer", "tier": "A"},
+    {"term": "tokenization",             "status": "customer", "tier": "A"},
+    {"term": "tokenisation",             "status": "suggested", "tier": "A"},
+    {"term": "blockchain",               "status": "customer", "tier": "B"},
+    {"term": "web3",                     "status": "customer", "tier": "B"},
+    {"term": "crypto",                   "status": "customer", "tier": "B"},
+    {"term": "cryptocurrency",           "status": "customer", "tier": "B"},
+    {"term": "distributed ledger",       "status": "customer", "tier": "A"},
+    {"term": "dlt",                      "status": "customer", "tier": "A"},
+    {"term": "on-chain",                 "status": "customer", "tier": "A"},
+    {"term": "onchain",                  "status": "customer", "tier": "A"},
+    {"term": "settlement infrastructure","status": "customer", "tier": "A"},
+    {"term": "tokenized deposits",       "status": "suggested", "tier": "A"},
+    {"term": "tokenized assets",         "status": "suggested", "tier": "A"},
+    {"term": "real-world assets",        "status": "suggested", "tier": "A"},
+    {"term": "programmable money",       "status": "suggested", "tier": "A"},
+    {"term": "digital currency",         "status": "suggested", "tier": "B"},
+    {"term": "layer 2",                  "status": "suggested", "tier": "B"}
+  ],
+
+  "_tier_note": "Tier A = strong institutional-settlement intent (the 'Head of Stablecoin at Apple' pattern). Tier B = broad terms that also match retail crypto and engineering noise; they trigger only when a seniority term is also present.",
+
+  "seniority": {
+    "required": ["head", "director", "vp", "vice president", "lead"],
+    "suggested": ["svp", "evp", "managing director", "chief", "general manager", "global head"]
+  },
+
+  "negative_title_terms": [
+    "intern", "internship", "recruiter", "talent acquisition", "sales development",
+    "customer support", "teller", "cashier", "fraud", "anti-money laundering investigator"
+  ],
+  "_negative_note": "Titles with these terms never trigger. 'fraud' is there because 'crypto fraud investigator' roles at banks are compliance hires, not buyers. Review with the customer.",
+
+  "google_fallback": {
+    "status": "EXPERIMENTAL",
+    "sites": [
+      "boards.greenhouse.io",
+      "jobs.lever.co",
+      "myworkdayjobs.com",
+      "jobs.ashbyhq.com",
+      "glassdoor.com/job-listing",
+      "careers"
+    ],
+    "title_patterns": [
+      "\"head of stablecoin\"",
+      "\"head of digital assets\"",
+      "\"director\" \"stablecoin\"",
+      "\"vp\" \"digital assets\"",
+      "\"head of tokenization\"",
+      "\"director\" \"tokenization\"",
+      "\"head of blockchain\"",
+      "\"lead\" \"stablecoin\"",
+      "\"director\" \"distributed ledger\"",
+      "\"head of\" \"on-chain\""
+    ],
+    "date_restrict": "qdr:w",
+    "results_per_query": 10
+  }
+}

@@ -1,0 +1,4 @@
+Detected At,Signal Type,Company Name,Domain (normalized),Person,Detail,Source,Pushed to HubSpot,Is Sample,Sample Source
+2026-09-28,New hire in niche title,Visa,visa.com,Frida V.,"Director Visa Stablecoins – LAC, started 2026-08",Clay people data,STUB,TRUE,LIVE (Clay people search 2026-09-28)
+2026-09-28,Job change (champion left),Mastercard,mastercard.com,(example),Tracked contact moved to a new company – new company goes to 01 audience check,Clay Job Change signal,STUB,TRUE,ILLUSTRATIVE
+2026-09-28,Promotion,Citi,citigroup.com,(example),"Director → MD, Digital Assets",Clay Promotion signal,STUB,TRUE,ILLUSTRATIVE

@@ -1,0 +1,12 @@
+Company Name,Domain,Employee Count,Industry,Country,Domain (normalized),Lookup · Target 150,Lookup · Event Attendees,Suppressed By,Eligible for Signal,In 5k+ View,Is Sample,Sample Source
+Apple,apple.com,220429,Computers and Electronics Manufacturing,United States,apple.com,,,,TRUE,TRUE,TRUE,LIVE (Clay company search 2026-09-28)
+Walmart,walmart.com,2100000,Retail,United States,walmart.com,,,,TRUE,TRUE,TRUE,ILLUSTRATIVE
+Amazon,amazon.com,1500000,Software Development,United States,amazon.com,,,,TRUE,TRUE,TRUE,ILLUSTRATIVE
+Corpay,corpay.com,7263,Financial Services,United States,corpay.com,,,,TRUE,TRUE,TRUE,LIVE (Clay company search 2026-09-28)
+MoneyGram,moneygram.com,3333,Financial Services,United States,moneygram.com,,,,TRUE,FALSE,TRUE,LIVE (Clay company search 2026-09-28)
+Banco Bisa,bisa.com,1593,Banking,Bolivia,bisa.com,,,,TRUE,FALSE,TRUE,LIVE (Clay company search 2026-09-28)
+Visa,visa.com,30000,Financial Services,United States,visa.com,visa.com,,Target 150,FALSE,TRUE,TRUE,ILLUSTRATIVE
+Coinbase,coinbase.com,7019,Financial Services,United States,coinbase.com,,coinbase.com,Event Attendees,FALSE,TRUE,TRUE,LIVE (Clay company search 2026-09-28)
+Circle,circle.com,1533,Financial Services,United States,circle.com,,circle.com,Event Attendees,FALSE,FALSE,TRUE,LIVE (Clay company search 2026-09-28)
+Shopify,shopify.com,8100,Software Development,Canada,shopify.com,,,,TRUE,TRUE,TRUE,ILLUSTRATIVE
+Mid-size Example Co,example-midsize.com,640,Financial Services,United States,example-midsize.com,,,,FALSE,FALSE,TRUE,ILLUSTRATIVE

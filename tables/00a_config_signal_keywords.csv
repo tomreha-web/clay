@@ -1,0 +1,22 @@
+Term,Tier,Status,Confirmed by Customer,Notes
+stablecoin,A,customer,FALSE,
+stablecoins,A,customer,FALSE,
+digital assets,A,customer,FALSE,
+digital asset,A,customer,FALSE,
+tokenization,A,customer,FALSE,
+tokenisation,A,suggested,FALSE,Clay suggestion to reach ~20 terms
+blockchain,B,customer,FALSE,
+web3,B,customer,FALSE,
+crypto,B,customer,FALSE,
+cryptocurrency,B,customer,FALSE,
+distributed ledger,A,customer,FALSE,
+dlt,A,customer,FALSE,
+on-chain,A,customer,FALSE,
+onchain,A,customer,FALSE,
+settlement infrastructure,A,customer,FALSE,
+tokenized deposits,A,suggested,FALSE,Clay suggestion to reach ~20 terms
+tokenized assets,A,suggested,FALSE,Clay suggestion to reach ~20 terms
+real-world assets,A,suggested,FALSE,Clay suggestion to reach ~20 terms
+programmable money,A,suggested,FALSE,Clay suggestion to reach ~20 terms
+digital currency,B,suggested,FALSE,Clay suggestion to reach ~20 terms
+layer 2,B,suggested,FALSE,Clay suggestion to reach ~20 terms

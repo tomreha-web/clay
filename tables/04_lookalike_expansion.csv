@@ -1,0 +1,5 @@
+Seed Account (from Target 150),Lookalike Company,Domain (normalized),Similarity Score,Employee Count,Suppressed By,Add to 01 Audience?,Is Sample,Sample Source
+visa.com,Mastercard,mastercard.com,0.94,33000,Target 150,FALSE,TRUE,ILLUSTRATIVE
+visa.com,Example Card Network,example-cardnetwork.com,0.81,4200,,TRUE,TRUE,ILLUSTRATIVE
+citigroup.com,Example Global Bank,example-globalbank.com,0.88,90000,,TRUE,TRUE,ILLUSTRATIVE
+stripe.com,Example Payments Co,example-payments.com,0.79,2500,,TRUE,TRUE,ILLUSTRATIVE

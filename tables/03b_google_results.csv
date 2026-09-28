@@ -1,0 +1,5 @@
+Detected At,Site,Result Title,Result URL,Extracted Company,Domain (normalized),Employee Count,Title Match Hit?,Signal Priority,Passes Size (≥1k),Suppressed By,Found in 01?,Days Ahead of 01,Net-New vs 01,Is Sample,Sample Source
+2026-09-28,boards.greenhouse.io,Head of Stablecoin Partnerships,https://boards.greenhouse.io/SAMPLE/jobs/1,Example Retailer Inc,example-retailer.com,12000,TRUE,High,TRUE,,FALSE,,TRUE,TRUE,ILLUSTRATIVE
+2026-09-28,myworkdayjobs.com,"Director, Digital Assets & Tokenization",https://walmart.wd5.myworkdayjobs.com/SAMPLE,Walmart,walmart.com,2100000,TRUE,High,TRUE,,TRUE,3,FALSE,TRUE,ILLUSTRATIVE
+2026-09-28,glassdoor.com/job-listing,Head of Stablecoin,https://www.glassdoor.com/job-listing/SAMPLE,Apple,apple.com,220429,TRUE,High,TRUE,,TRUE,0,FALSE,TRUE,ILLUSTRATIVE
+2026-09-28,jobs.lever.co,"Lead, Stablecoin Operations",https://jobs.lever.co/SAMPLE/2,Small Fintech LLC,example-smallfintech.com,85,TRUE,High,FALSE,,FALSE,,FALSE,TRUE,ILLUSTRATIVE
